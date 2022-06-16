@@ -5,7 +5,7 @@ Welcome to 501 Out Chart v. 0.2!
  ____/ / /_/ / /  / /_/ / /_/ / /_   / /___/ / / / /_/ / /  / /_/_/  
 /_____/\____/_/   \____/\__,_/\__/   \____/_/ /_/\__,_/_/   \__(_) v. 0.2  
                                                                     
-While there are plenty of 501/301 Out Charts out there these days, two things seemed to be lacking to me:
+While there are plenty of 501/301 Out Charts out there these days, two things seemed to be lacking to me: 
 1. They always give the “most efficient” way to go out.  However, often there are equally efficient ways 
    to go out. This program shows every possible way to go out.
 2. This may be a personal preference of mine, but I always like to go out on a 2^n. This way, if I miss 
